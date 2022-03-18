@@ -1,6 +1,7 @@
 # ArcherMaster3D-FinalProject-Practical-Software-Engineering
 Final project for my practical software engineering diploma.
-A 3D developed game with C and OpenGL.
+
+A 3D developed game with C/C++ and OpenGL.
 
 Players can finally show their true skills with arrow shooting. 
 A challenging game that puts the player to his limits, competing with other players to reach top of the table with their score and show off with special tag to the 1st scorer player.
